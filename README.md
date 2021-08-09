@@ -4,7 +4,7 @@ Last year of graduation in System Analysis and Development. | IFRN Campus Pau do
 
 <ul>
   <li>I am from Brazil <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></li>
-  <li>Data Enginner </li>
+  <li>Data Engineering</li>
   <li>Web development</li>
   <li>Machine Learning</li>
 </ul>

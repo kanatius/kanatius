@@ -3,10 +3,10 @@
 Last year of Graduation in System Analysis and Development. | IFRN Campus Pau dos Ferros.
 
 <ul>
-  <li>🧑‍💻  I am from Brazil <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brazil</b>;</li>
-  <li>💾 Data Enginner </li>
-  <li>😍 Web development</li>
-  <li>😊 Machine Learning</li>
+  <li>I am from Brazil <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brazil</b>;</li>
+  <li>Data Enginner </li>
+  <li>Web development</li>
+  <li>Machine Learning</li>
 </ul>
 
  <div>

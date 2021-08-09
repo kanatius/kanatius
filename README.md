@@ -1,4 +1,4 @@
-<h1>Hi everyone, My name is Natan Almeida</h1>
+<h1>Hi everyone!</h1>
 
 Last year of graduation in System Analysis and Development. | IFRN Campus Pau dos Ferros.
 

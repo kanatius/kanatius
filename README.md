@@ -33,7 +33,7 @@ Last year of graduation in System Analysis and Development. | IFRN Campus Pau do
 <a href="https://instagram.com/natankow2"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:natanalmeidadelima@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
   
-![Snake animation](https://github.com/luis-luciqm/luis-luciqm/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kanatius/kanatius/blob/output/github-contribution-grid-snake.svg)
   
 <img src="https://komarev.com/ghpvc/?username=luis-luciqm&color=green" alt="luis-luciqm" />   
 ---

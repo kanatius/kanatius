@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Luís Lucilandio - aka Luís</h1>
+<h1>Hi everyone, My name is Natan Almeida</h1>
 
 Last year of Graduation in System Analysis and Development. | IFRN Campus Pau dos Ferros.
 

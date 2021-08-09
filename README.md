@@ -1,6 +1,6 @@
 <h1>Hi everyone!</h1>
 
-Last year of graduation in System Analysis and Development. | IFRN Campus Pau dos Ferros.
+Last year of graduation in System Analysis and Development.
 
 <ul>
   <li>I am from Brazil <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></li>

@@ -6,7 +6,7 @@ Last year of graduation in System Analysis and Development.
   <li>I am from Brazil <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></li>
   <li>Data Engineering</li>
   <li>Web development</li>
-  <li>Machine Learning</li>
+  <li>Software Quality - Test Automation</li>
 </ul>
 
  <div>
